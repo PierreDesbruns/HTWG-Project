@@ -1,0 +1,12 @@
+Column #0 countains 723 anomalies
+Column #1 countains 1842 anomalies
+Column #2 countains 3330 anomalies
+Column #3 countains 2100 anomalies
+Column #4 countains 1858 anomalies
+Column #5 countains 1631 anomalies
+Column #6 countains 1918 anomalies
+Column #7 countains 3508 anomalies
+Column #8 countains 2138 anomalies
+Column #9 countains 2266 anomalies
+Column #10 countains 1062 anomalies
+Column #11 countains 1747 anomalies

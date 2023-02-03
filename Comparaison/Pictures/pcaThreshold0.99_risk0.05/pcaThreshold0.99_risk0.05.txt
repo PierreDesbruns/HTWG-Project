@@ -1,0 +1,103 @@
+RM_ERRECHNETE_RAUMTEMPERATUR_DSP_POINT_ID_Value
+Errors PCA NOLANE : 1747
+Errors PCA PIERRE : 723
+Errors Mahalanobis : 2089
+Errors PCA NOLANE & Mahalanobis : 487
+Errors PCA PIERRE & Mahalanobis : 723
+Errors PCA NOLANE & PIERRE : 442
+Errors in common : 442
+RM_RBG_RAUMTEMPERATUR_POINT_ID_Value
+Errors PCA NOLANE : 1662
+Errors PCA PIERRE : 1842
+Errors Mahalanobis : 2396
+Errors PCA NOLANE & Mahalanobis : 101
+Errors PCA PIERRE & Mahalanobis : 1826
+Errors PCA NOLANE & PIERRE : 86
+Errors in common : 86
+RM_ANSTEUERUNG_DSP_VENTIL_POINT_ID_Value
+Errors PCA NOLANE : 1461
+Errors PCA PIERRE : 3330
+Errors Mahalanobis : 4106
+Errors PCA NOLANE & Mahalanobis : 662
+Errors PCA PIERRE & Mahalanobis : 3330
+Errors PCA NOLANE & PIERRE : 606
+Errors in common : 606
+DSP_FLOOR_DISTRIBUTOR_DURCHFLUSS_EQUIPMENT_ID_Value
+Errors PCA NOLANE : 1668
+Errors PCA PIERRE : 2100
+Errors Mahalanobis : 1997
+Errors PCA NOLANE & Mahalanobis : 309
+Errors PCA PIERRE & Mahalanobis : 1886
+Errors PCA NOLANE & PIERRE : 437
+Errors in common : 308
+DSP_FLOOR_DISTRIBUTOR_RUECKLAUFTEMPERATUR_EQUIPMENT_ID_Value
+Errors PCA NOLANE : 1803
+Errors PCA PIERRE : 1858
+Errors Mahalanobis : 1692
+Errors PCA NOLANE & Mahalanobis : 645
+Errors PCA PIERRE & Mahalanobis : 1618
+Errors PCA NOLANE & PIERRE : 717
+Errors in common : 645
+DSP_FLOOR_DISTRIBUTOR_VORLAUFTEMPERATUR_EQUIPMENT_ID_Value
+Errors PCA NOLANE : 1395
+Errors PCA PIERRE : 1631
+Errors Mahalanobis : 266
+Errors PCA NOLANE & Mahalanobis : 9
+Errors PCA PIERRE & Mahalanobis : 266
+Errors PCA NOLANE & PIERRE : 111
+Errors in common : 9
+DSP_FLOOR_DISTRIBUTOR_LEISTUNG_EQUIPMENT_ID_Value
+Errors PCA NOLANE : 1250
+Errors PCA PIERRE : 1918
+Errors Mahalanobis : 2856
+Errors PCA NOLANE & Mahalanobis : 591
+Errors PCA PIERRE & Mahalanobis : 1918
+Errors PCA NOLANE & PIERRE : 541
+Errors in common : 541
+DSP_HK_CIRCUIT_DURCHFLUSS_EQUIP_ID_Value
+Errors PCA NOLANE : 2192
+Errors PCA PIERRE : 3508
+Errors Mahalanobis : 3525
+Errors PCA NOLANE & Mahalanobis : 221
+Errors PCA PIERRE & Mahalanobis : 3245
+Errors PCA NOLANE & PIERRE : 301
+Errors in common : 217
+DSP_HK_CIRCUIT_LEISTUNG_EQUIP_ID_Value
+Errors PCA NOLANE : 1223
+Errors PCA PIERRE : 2138
+Errors Mahalanobis : 2787
+Errors PCA NOLANE & Mahalanobis : 377
+Errors PCA PIERRE & Mahalanobis : 2136
+Errors PCA NOLANE & PIERRE : 305
+Errors in common : 303
+DSP_KK_CIRCUIT__24A1_AUSSENTEMPERATUR_EQUIP_ID_Value
+Errors PCA NOLANE : 1614
+Errors PCA PIERRE : 2266
+Errors Mahalanobis : 2377
+Errors PCA NOLANE & Mahalanobis : 318
+Errors PCA PIERRE & Mahalanobis : 1947
+Errors PCA NOLANE & PIERRE : 335
+Errors in common : 313
+DSP_KK_CIRCUIT_DS_VL_TEMPERATUR_EQUIP_ID_Value
+Errors PCA NOLANE : 1342
+Errors PCA PIERRE : 1062
+Errors Mahalanobis : 72
+Errors PCA NOLANE & Mahalanobis : 12
+Errors PCA PIERRE & Mahalanobis : 72
+Errors PCA NOLANE & PIERRE : 195
+Errors in common : 12
+DSP_KK_CIRCUIT_DS_RL_TEMPERATUR_EQUIP_ID_Value
+Errors PCA NOLANE : 1502
+Errors PCA PIERRE : 1747
+Errors Mahalanobis : 265
+Errors PCA NOLANE & Mahalanobis : 134
+Errors PCA PIERRE & Mahalanobis : 265
+Errors PCA NOLANE & PIERRE : 544
+Errors in common : 134
+Errors PCA NOLANE (mean) : 1571.5833333333333
+Errors PCA PIERRE (mean) : 2010.25
+Errors Mahalanobis (mean) : 2035.6666666666667
+Errors PCA NOLANE & Mahalanobis (mean) : 322.1666666666667
+Errors PCA PIERRE & Mahalanobis (mean) : 1602.6666666666667
+Errors PCA NOLANE & PIERRE (mean) : 385
+Errors in common (mean) : 301.3333333333333

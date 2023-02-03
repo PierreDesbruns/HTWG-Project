@@ -1,0 +1,14 @@
+Eignevalues :
+[5.46866405 2.7551645  1.05485593 0.8632992  0.62941001 0.41024792 0.35813072 0.25561377 0.11005846 0.05591476 0.01365043 0.02499024]
+Column #0 countains 723 anomalies
+Column #1 countains 1842 anomalies
+Column #2 countains 3330 anomalies
+Column #3 countains 2100 anomalies
+Column #4 countains 1857 anomalies
+Column #5 countains 1629 anomalies
+Column #6 countains 1920 anomalies
+Column #7 countains 3508 anomalies
+Column #8 countains 2139 anomalies
+Column #9 countains 2266 anomalies
+Column #10 countains 1059 anomalies
+Column #11 countains 1747 anomalies
