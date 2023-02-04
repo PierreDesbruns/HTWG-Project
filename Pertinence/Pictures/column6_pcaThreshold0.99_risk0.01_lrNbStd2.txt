@@ -1,0 +1,4 @@
+DSP_FLOOR_DISTRIBUTOR_LEISTUNG_EQUIPMENT_ID_Value
+Errors linear regression : 584
+Errors others : 518
+Errors in common : 371
